@@ -53,11 +53,9 @@ Drawable (Screen)
 ## Project Structure
 
 ```
-01_fundamentals_triangle/
-├── Renderer.swift
+01_Metal_Fundamentals_Triangle/
 ├── ViewController.swift
 ├── Shaders.metal
-└── Assets.xcassets
 ```
 
 ---
