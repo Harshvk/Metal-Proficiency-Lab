@@ -1,8 +1,8 @@
 # Metal Fundamentals — Rotating Triangle
 
-This module demonstrates the **core fundamentals of Metal rendering** by implementing a rotating triangle using the Metal render pipeline and Metal Shading Language (MSL).
+This module revisits the **core fundamentals of Metal rendering** by implementing a rotating triangle using the Metal render pipeline and Metal Shading Language (MSL).
 
-It serves as the **foundational building block** for the broader *Metal Proficiency Lab* repository.
+The intent is to strengthen foundational understanding and validate correct usage patterns before building more complex GPU pipelines.
 
 ---
 
