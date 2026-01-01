@@ -1,6 +1,6 @@
 # What I Learned — Metal Fundamentals (Rotating Triangle)
 
-This reflection documents the key learnings and mental models developed while building the **Metal Fundamentals — Rotating Triangle** module.
+This module was approached as a deliberate revisit of Metal fundamentals, with the intent of validating assumptions, reinforcing mental models, and identifying areas that matter most when scaling Metal usage in production systems.
 
 ---
 
